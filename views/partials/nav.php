@@ -6,16 +6,15 @@
             </div>
             <div class="hidden md:block">
                 <div class="ml-10 flex items-baseline space-x-4 float-right">
-                    <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                    <a href="/" class="rounded-md bg-[#ff690D] px-3 py-2 text-sm font-bold text-white" aria-current="page">Home</a>
-                    <a href="/cv" class="rounded-md px-3 py-2 text-sm font-medium text-white hover:bg-[#ffB88C] hover:text-white">CV</a>
-                    <a href="/projects" class="rounded-md px-3 py-2 text-sm font-medium text-white hover:bg-[#ffB88C] hover:text-white">Projects</a>
-                    <a href="/contact" class="rounded-md px-3 py-2 text-sm font-medium text-white hover:bg-[#ffB88C] hover:text-white">Contact</a>
+                    <a href="/" class="<?= urlIs("/") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Home</a>
+                    <a href="/cv" class="<?= urlIs("/cv") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">CV</a>
+                    <a href="/projects" class="<?= urlIs("/projects") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Projects</a>
+                    <a href="/contact" class="<?= urlIs("/contact") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Contact</a>
                 </div>
             </div>
             <div class="-mr-2 flex md:hidden">
                 <!-- Mobile menu button -->
-                <button type="button" class="relative inline-flex items-center justify-center rounded-md bg-[#ff690D] p-2 text-white hover:bg-[#ffB88C] hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" aria-controls="mobile-menu" aria-expanded="false">
+                <button type="button" class="relative inline-flex items-center justify-center rounded-md bg-[#ff690D] p-2 text-white hover:bg-[#ffB88C] focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" aria-controls="mobile-menu" aria-expanded="false">
                     <span class="absolute -inset-0.5"></span>
                     <span class="sr-only">Open main menu</span>
                     <!-- Menu open: "hidden", Menu closed: "block" -->
@@ -31,14 +30,13 @@
         </div>
     </div>
 
-    <!-- Mobile menu, show/hide based on menu state. -->
+    <!-- Mobile menu -->
     <div class="md:hidden" id="mobile-menu">
         <div class="space-y-1 px-2 pb-3 pt-2 sm:px-3">
-            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-            <a href="/" class="block rounded-md bg-[#ff690D] px-3 py-2 text-base font-medium text-white" aria-current="page">Home</a>
-            <a href="/cv" class="block rounded-md px-3 py-2 text-base font-medium text-white hover:bg-[#ffB88C] hover:text-white">CV</a>
-            <a href="/projects" class="block rounded-md px-3 py-2 text-base font-medium text-white hover:bg-[#ffB88C] hover:text-white">Projects</a>
-            <a href="/contact" class="block rounded-md px-3 py-2 text-base font-medium text-white hover:bg-[#ffB88C] hover:text-white">Contact</a>
+            <a href="/" class="<?= urlIs("/") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Home</a>
+            <a href="/cv" class="<?= urlIs("/cv") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">CV</a>
+            <a href="/projects" class="<?= urlIs("/projects") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Projects</a>
+            <a href="/contact" class="<?= urlIs("/contact") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Contact</a>
         </div>
     </div>
 </nav>

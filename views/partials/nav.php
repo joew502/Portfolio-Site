@@ -5,7 +5,7 @@
                 <a href="/" class="px-3 py-2 text-2xl font-medium text-white" aria-current="page"><b>Joe Wilson's</b> Portfolio</a>
             </div>
             <div class="hidden md:block">
-                <div class="ml-10 flex items-baseline space-x-4 float-right">
+                <div class="flex items-baseline space-x-4 float-right">
                     <a href="/" class="<?= urlIs("/") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Home</a>
                     <a href="/cv" class="<?= urlIs("/cv") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">CV</a>
                     <a href="/projects" class="<?= urlIs("/projects") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Projects</a>

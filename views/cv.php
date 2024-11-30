@@ -8,8 +8,9 @@
         </header>
         <main>
             <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-                <!-- Your content -->
-                <h1>Hello World</h1>
+                <div class="w-max flex justify-center">
+                    <a class="bg-[#ff914d] hover:bg-[#ff690D] text-white font-semibold py-2 px-4 border border-[#ff6000] rounded shadow sm:px-10" href="/assets/JW-External-CV.pdf" download="JW-External-CV">Download My CV</a>
+                </div>
             </div>
         </main>
     </div>

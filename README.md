@@ -3,6 +3,6 @@ Personal portfolio website
 
 --- Under Development ---
 
-Viewable at joewilson.dev\
-Being created in PHP with TailwindCSS\
+Viewable at https://joewilson.dev<br>
+Being created in PHP with JavaScript and TailwindCSS\
 Self hosted on Apache on Debian Linux

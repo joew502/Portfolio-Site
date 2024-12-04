@@ -31,23 +31,23 @@
                     <div class="py-2">
                         <div class="py-0.5 text-xl font-bold">Education</div>
                         <hr class="bg-black h-[3px] mb-2">
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Degree -- BSc in Computer Science, University of Exeter, UK</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Degree -- BSc in Computer Science, University of Exeter, UK</div>
                             <div class="py-0.5">Sept 2019 - July 2023</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
                             <li class="py-0.5 list-disc">Key Areas and Modules: Software Development, Microservices, Enterprise Computing, Data Structures, Algorithms, Web Development, Machine Learning, Security, Java, Python, Graphics, Databases</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Secondary -- Bryanston School, UK</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Secondary -- Bryanston School, UK</div>
                             <div class="py-0.5">Sept 2014 - July 2019</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
                             <li class="py-0.5 list-disc">A Levels: Maths, Physics, Further Maths (with 2 As and 1 C)</li>
                             <li class="py-0.5 list-disc">GCSEs: 11 (with 5 A*s and 2 As)</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Self-Study -- Pembrokeshire College, Online</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Self-Study -- Pembrokeshire College, Online</div>
                             <div class="py-0.5">Sept 2017 - July 2019</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -57,8 +57,8 @@
                     <div class="py-2">
                         <div class="py-0.5 text-xl font-bold">Employment History</div>
                         <hr class="bg-black h-[3px] mb-2">
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Community Coworking Ltd -- Operations Manager</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Community Coworking Ltd -- Operations Manager</div>
                             <div class="py-0.5">May 2024 - Present</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -74,8 +74,8 @@
                     <div class="py-2">
                         <div class="py-0.5 text-xl font-bold">Projects</div>
                         <hr class="bg-black h-[3px] mb-2">
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">University Chat Forum | <em>Group Software Development Coursework</em></div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">University Chat Forum | <em>Group Software Development Coursework</em></div>
                             <div class="py-0.5">Sept 2019 - July 2023</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -85,8 +85,8 @@
                             <li class="py-0.5 list-disc">The site is capable of having individual user accounts, each with associated levels, privileges and subscribed clubs. Each post can have comments and multiple layers of sub-comments, all with respective up and down voting capability.</li>
                             <li class="py-0.5 list-disc">Languages: PHP, HTML, JavaScript, CSS, SQL</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Financial Management Software for Student Clubs and Societies | <em>Final Year Project</em></div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Financial Management Software for Student Clubs and Societies | <em>Final Year Project</em></div>
                             <div class="py-0.5">Oct 2022 - March 2023</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -94,8 +94,8 @@
                             <li class="py-0.5 list-disc">Desktop application built on the Swing GUI Framework</li>
                             <li class="py-0.5 list-disc">Languages: Java</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Virtual Assistant | <em>Coursework</em></div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Virtual Assistant | <em>Coursework</em></div>
                             <div class="py-0.5">Feb 2022 - March 2022</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -103,8 +103,8 @@
                             <li class="py-0.5 list-disc">Developed in GoLand and uses the Microsoft TTS and STT APIs for audio conversion and the Wolfram Alpha Short Answer API for answering the questions.</li>
                             <li class="py-0.5 list-disc">Languages: Go</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Android Weather App | <em>Coursework</em></div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Android Weather App | <em>Coursework</em></div>
                             <div class="py-0.5">March 2021</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -117,8 +117,8 @@
                     <div class="py-2">
                         <div class="py-0.5 text-xl font-bold">Volunteering and Leadership</div>
                         <hr class="bg-black h-[3px] mb-2">
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Exeter University Boat Club -- President (22/23) & Treasurer (21/22)</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Exeter University Boat Club -- President (22/23) & Treasurer (21/22)</div>
                             <div class="py-0.5">July 2021 - July 2023</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -126,8 +126,8 @@
                             <li class="py-0.5 list-disc">Treasurer -- Used technical skills to revamp the clubs financial management processes and financial plan</li>
                             <li class="py-0.5 list-disc">Athletic Union Club Award -- For outstanding contribution towards university sport</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Bryanston School Greenpower Challenge Team -- Head of Electrical</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Bryanston School Greenpower Challenge Team -- Head of Electrical</div>
                             <div class="py-0.5">Sept 2015 - July 2019</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -138,8 +138,8 @@
                     <div class="py-2">
                         <div class="py-0.5 text-xl font-bold">Qualifications, Achievements and Interests</div>
                         <hr class="bg-black h-[3px] mb-2">
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">Rowing</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">Rowing</div>
                             <div class="py-0.5">Sept 2015 - Present</div>
                         </div>
                         <ul class="ml-7 sm:ml-10">
@@ -148,16 +148,16 @@
                             <li class="py-0.5 list-disc">Medalled at British Universities and Colleges Sport (BUCS) Events</li>
                             <li class="py-0.5 list-disc">Vesta Rowing Club, Putney, London 2023-Present</li>
                         </ul>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">IQL Level 3 Award in Emergency First Aid at Work</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">IQL Level 3 Award in Emergency First Aid at Work</div>
                             <div class="py-0.5">Sept 2022</div>
                         </div>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">RYA Dayskipper Qualification</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">RYA Dayskipper Qualification</div>
                             <div class="py-0.5">Oct 2021</div>
                         </div>
-                        <div class="block sm:flex w-full items-center justify-between">
-                            <div class="py-0.5 font-bold">RYA Powerboat 2 Qualification</div>
+                        <div class="block sm:flex sm:flex-wrap w-full items-center justify-between">
+                            <div class="py-0.5 pr-5 font-bold">RYA Powerboat 2 Qualification</div>
                             <div class="py-0.5">Apr 2015</div>
                         </div>
                         <div class="block sm:flex w-full items-center justify-between">

@@ -12,7 +12,7 @@
 
                     <div class="max-w-lg mt-2 lg:mr-3 justify-self-center">
                         <h2 class="text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Get in Touch</h2>
-                        <p class="mt-2 ml-1 text-lg/8 text-gray-600">Contact me if you are interested in hiring me, making use of my freelance/contract services or would just like to chat!</p>
+                        <p class="mt-2 ml-1 text-lg/8 text-gray-600">Contact me if you are interested in hiring me, making use of my freelance/contract services or would just like to chat about possibilities!</p>
                         <a href="mailto:joewilson502@gmail.com" class="flex align-baseline my-2 ml-1">
                             <svg class="mt-0.5 w-7 h-7 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m3.5 5.5 7.893 6.036a1 1 0 0 0 1.214 0L20.5 5.5M4 19h16a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
@@ -33,7 +33,7 @@
                             <p class="ml-2 text-lg/8 text-gray-600">GitHub</p>
                         </a>
                     </div>
-
+<!--
                     <form action="#" method="POST" class="max-w-lg mt-5 lg:mt-0 lg:ml-3 justify-self-center">
                         <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                             <div>
@@ -74,10 +74,10 @@
                             </div>
                             <div class="flex gap-x-4 sm:col-span-2">
                                 <div class="flex h-6 items-center">
-                                    <!-- Enabled: "bg-indigo-600", Not Enabled: "bg-gray-200" -->
+                                    </!/-/- Enabled: "bg-indigo-600", Not Enabled: "bg-gray-200" -/-/>
                                     <button type="button" class="flex w-8 flex-none cursor-pointer rounded-full bg-gray-200 p-px ring-1 ring-inset ring-gray-900/5 transition-colors duration-200 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600" role="switch" aria-checked="false" aria-labelledby="switch-1-label">
                                         <span class="sr-only">Agree to policies</span>
-                                        <!-- Enabled: "translate-x-3.5", Not Enabled: "translate-x-0" -->
+                                        </!/-/- Enabled: "translate-x-3.5", Not Enabled: "translate-x-0" -/-/>
                                         <span aria-hidden="true" class="size-4 translate-x-0 transform rounded-full bg-white shadow-sm ring-1 ring-gray-900/5 transition duration-200 ease-in-out"></span>
                                     </button>
                                 </div>
@@ -91,6 +91,7 @@
                             <button type="submit" class="block w-full rounded-md bg-[#ff914d] px-3.5 py-2.5 text-center text-base font-semibold text-white shadow-sm hover:bg-[#ffB88C] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff914d]">Let's talk</button>
                         </div>
                     </form>
+    -->
                 </div>
             </div>
         </main>

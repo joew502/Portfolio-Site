@@ -7,14 +7,14 @@
             </div>
         </header>
         <main>
-            <div class="mx-auto max-w-4xl px-4 py-6 sm:px-6 lg:px-8">
+            <div class="mx-auto max-w-lg sm:max-w-4xl px-4 py-6 sm:px-6 lg:px-8">
                 <div class="w-full block justify-center">
-                    <div class="w-full flex justify-center border rounded-md border-[3px] border-[#ff690D] p-3">
-                        <div class="size-[160px] shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-[#ff690D] p-3">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
                             <img src="/assets/website-icon.png" alt="Website Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="ml-4 flex flex-1 flex-col">
+                        <div class="sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -26,11 +26,11 @@
                                         </svg>
                                     </a>
                                 </div>
-                                <div class="flex items-baseline space-x-2 mt-1 text-white">
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">PHP</div>
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">Tailwind CSS</div>
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">JavaScript</div>
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">Self-Hosted</div>
+                                <div class="flex items-baseline space-x-2 mt-1 text-white overflow-x-auto">
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">PHP</div>
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">Tailwind CSS</div>
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">JavaScript</div>
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">Self-Hosted</div>
                                 </div>
                                 <p class="mt-1 text-base text-black">A personal project to display my skills, projects and services. Created in PHP with JavaScript and Tailwind CSS. Self hosted on Apache on an Debian Linux Server via a Cloudflare Zero Trust Tunnel.</p>
                             </div>
@@ -44,12 +44,12 @@
                             </div>-->
                         </div>
                     </div>
-                    <div class="w-full flex justify-center border rounded-md border-[3px] border-[#ff690D] p-3 mt-5">
-                        <div class="size-[160px] shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-[#ff690D] p-3 mt-5">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
                             <img src="/assets/FMS-icon.png" alt="Website Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="ml-4 flex flex-1 flex-col">
+                        <div class="sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -61,11 +61,11 @@
                                         </svg>
                                     </a>
                                 </div>
-                                <div class="flex items-baseline space-x-2 mt-1 text-white">
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">Java</div>
-                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2">Swing</div>
+                                <div class="flex items-baseline space-x-2 mt-1 text-white overflow-x-auto">
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">Java</div>
+                                    <div class="bg-[#ff690D] rounded-xl py-0.5 px-2 max-h-[28px] text-nowrap">Swing</div>
                                 </div>
-                                <p class="mt-1 text-base text-black">Financial Management Software for Student Clubs and Societies. I created this project qs part of my final year dissertation.</p>
+                                <p class="mt-1 text-base text-black">Financial Management Software for Student Clubs and Societies. I created this project as part of my final year dissertation.</p>
                             </div>
                         </div>
                     </div>

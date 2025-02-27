@@ -2,12 +2,13 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="flex h-16 items-center justify-between">
             <div class="flex items-center">
-                <a href="/" class="px-3 py-2 text-2xl font-medium text-white" aria-current="page"><b>Joe Wilson</b>.dev</a>
+                <a href="/" class="pr-3 py-2 text-2xl font-medium text-white" aria-current="page"><b>Joe Wilson</b>.dev</a>
             </div>
             <div class="hidden md:block">
                 <div class="flex items-baseline space-x-4 float-right">
                     <a href="/" class="<?= urlIs("/") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Home</a>
                     <a href="/cv" class="<?= urlIs("/cv") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">CV</a>
+                    <a href="/services" class="<?= urlIs("/services") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Services</a>
                     <a href="/projects" class="<?= urlIs("/projects") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Projects</a>
                     <a href="/contact" class="<?= urlIs("/contact") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> rounded-md px-3 py-2 font-medium text-sm text-white">Contact</a>
                 </div>
@@ -35,6 +36,7 @@
         <div class="space-y-1 px-2 pb-3 pt-2 sm:px-3">
             <a href="/" class="<?= urlIs("/") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Home</a>
             <a href="/cv" class="<?= urlIs("/cv") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">CV</a>
+            <a href="/services" class="<?= urlIs("/services") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Services</a>
             <a href="/projects" class="<?= urlIs("/projects") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Projects</a>
             <a href="/contact" class="<?= urlIs("/contact") ? 'bg-[#ff690D]' : 'hover:bg-[#ffB88C]' ?> block rounded-md px-3 py-2 font-medium text-base text-white">Contact</a>
         </div>

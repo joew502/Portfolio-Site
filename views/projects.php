@@ -9,12 +9,12 @@
         <main>
             <div class="mx-auto max-w-lg sm:max-w-4xl px-4 py-6 sm:px-6 lg:px-8">
                 <div class="w-full block justify-center">
-                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-black p-3">
-                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-lg border-gray-300 shadow-lg p-3 shadow-gray-300 bg-white">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-300 shadow-gray-300 shadow-md">
                             <img src="/assets/website-icon.png" alt="Website Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="sm:ml-4 flex flex-1 flex-col">
+                        <div class="mt-2 sm:mt-0 sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -44,12 +44,12 @@
                             </div>-->
                         </div>
                     </div>
-                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-black p-3 mt-5">
-                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-lg border-gray-300 shadow-lg p-3 shadow-gray-300 bg-white mt-5">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-300 shadow-gray-300 shadow-md">
                             <img src="/assets/Forum-icon.png" alt="Forum Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="sm:ml-4 flex flex-1 flex-col">
+                        <div class="mt-2 sm:mt-0 sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -71,12 +71,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-black p-3 mt-5">
-                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-lg border-gray-300 shadow-lg p-3 shadow-gray-300 bg-white mt-5">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-300 shadow-gray-300 shadow-md">
                             <img src="/assets/FMS-icon.png" alt="FMS Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="sm:ml-4 flex flex-1 flex-col">
+                        <div class="mt-2 sm:mt-0 sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -96,12 +96,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-black p-3 mt-5">
-                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-lg border-gray-300 shadow-lg p-3 shadow-gray-300 bg-white mt-5">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-300 shadow-gray-300 shadow-md">
                             <img src="/assets/Microservices-icon.png" alt="Website Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="sm:ml-4 flex flex-1 flex-col">
+                        <div class="mt-2 sm:mt-0 sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
@@ -122,12 +122,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-full block sm:flex justify-center border rounded-md border-[3px] border-black p-3 mt-5">
-                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div class="w-full block sm:flex justify-center border rounded-lg border-gray-300 shadow-lg p-3 shadow-gray-300 bg-white mt-5">
+                        <div class="size-[160px] mx-auto shrink-0 overflow-hidden rounded-md border border-gray-300 shadow-gray-300 shadow-md">
                             <img src="/assets/Weather-App-Icon.png" alt="Website Icon" class="size-full object-cover">
                         </div>
 
-                        <div class="sm:ml-4 flex flex-1 flex-col">
+                        <div class="mt-2 sm:mt-0 sm:ml-4 flex flex-1 flex-col">
                             <div>
                                 <div class="flex justify-between text-base font-medium text-black">
                                     <div class="text-xl font-bold">
